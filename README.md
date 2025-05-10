@@ -1,2 +1,1 @@
-# UAC
-Roblox Universal anticheat Bypass
+# Public Detos Roblox Repo
